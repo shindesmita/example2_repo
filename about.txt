@@ -1,0 +1,2 @@
+hi
+this is ec2 user
